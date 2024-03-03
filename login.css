@@ -1,0 +1,47 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+ 
+}
+h1{
+    color: blanchedalmond;
+}
+#myform{
+border: solid rgb(214, 173, 173);
+border-radius: 10px;
+
+background-image: url(login.avif);
+background-repeat: no-repeat;
+background-size: cover;
+width: 300px;
+height: 300px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.u{
+color: blanchedalmond;
+}
+
+input{
+width: 150px;
+height: 20px;
+}
+.login{
+background-color: cadetblue;
+width: 90px;
+height: 30px;
+border-radius:20px ;
+
+
+}
+a{
+text-decoration: none;
+color: antiquewhite;
+}
